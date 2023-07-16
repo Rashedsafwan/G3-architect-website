@@ -34,6 +34,9 @@ nav li a{
     color: #424242;
 }
 /* Banner Section Start here */
+.banner{
+    border: 2px solid salmon;
+}
 .banner-text{
     max-width: 760px;
     text-align: center;
@@ -59,6 +62,6 @@ nav li a{
     margin-bottom: 40px;
 }
 .banner-img{
-    width: 870px;
-    margin: auto;
+    width: 100%;
+    /* margin: auto; */
 }
